@@ -25,10 +25,7 @@ My key areas of expertise include:
 ---
 
 ## 📊 Proyectos Destacados / Featured Projects
-
-•⁠  ⁠🎮 *Análisis de Ventas de Videojuegos / Video Game Sales Analysis*  
-  Exploración y visualización de ventas globales de videojuegos para detectar tendencias de mercado.  
-  (Próximamente link a repositorio)  
+ 
 
 •⁠  ⁠🚗 *Análisis de Mercado de Vehículos / Vehicle Market Analysis*  
   Limpieza y análisis de datos de anuncios de venta de coches en EE.UU.  
