@@ -29,8 +29,8 @@ My key areas of expertise include:
 
 •⁠  ⁠🚗 *Análisis de Mercado de Vehículos / Vehicle Market Analysis*  
   Limpieza y análisis de datos de anuncios de venta de coches en EE.UU.  
-  (Próximamente link a repositorio)  
-
+  notebooks
+  
 🚖 *Análisis de Compañías de Taxi / Taxi Company Performance Analysis*  
 Evaluación de rendimiento de compañías de taxi, volumen de viajes, ingresos y participación de mercado.  
 📊 Incluye consultas SQL, análisis en Python y visualizaciones para identificar patrones de demanda y empresas líderes.  
