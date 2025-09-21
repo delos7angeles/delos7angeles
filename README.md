@@ -37,4 +37,9 @@ Evaluación de rendimiento de compañías de taxi, volumen de viajes, ingresos y
 🔗 [Ver repositorio](https://github.com/delos7angeles/Taxi-Company-Performance)
 
 
+📊 *Análisis del Desempeño de Marketing / Marketing Performance Analysis*  
+Cálculo de métricas de negocio *(CAC, ROMI, LTV)* y análisis del comportamiento de usuarios para optimizar estrategias de inversión.  
+Incluye visualizaciones y recomendaciones estratégicas para mejorar el retorno de marketing.  
+[Ver repositorio](https://github.com/delos7angeles/MARKETING-PERFORMANCE-ANALYSIS)
+
 💡 Explora mis repositorios para ver más proyectos y notebooks.
