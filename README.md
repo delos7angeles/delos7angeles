@@ -45,6 +45,5 @@ Incluye visualizaciones y recomendaciones estratégicas para mejorar el retorno 
 🎮 *Análisis de Ventas de Videojuegos / Video Game Sales Analysis*  
 Exploración de ventas de videojuegos por plataforma, género y región.  
 Incluye visualizaciones y análisis de tendencias históricas.  
-[Ver repositorio](https://github.com/delos7angeles/ANÁLISIS-DE-VENTAS-DE-VIDEOJUEGOS)
 
 💡 Explora mis repositorios para ver más proyectos y notebooks.
