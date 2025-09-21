@@ -42,4 +42,9 @@ Cálculo de métricas de negocio *(CAC, ROMI, LTV)* y análisis del comportamien
 Incluye visualizaciones y recomendaciones estratégicas para mejorar el retorno de marketing.  
 [Ver repositorio](https://github.com/delos7angeles/MARKETING-PERFORMANCE-ANALYSIS)
 
+🎮 *Análisis de Ventas de Videojuegos / Video Game Sales Analysis*  
+Exploración de ventas de videojuegos por plataforma, género y región.  
+Incluye visualizaciones y análisis de tendencias históricas.  
+[Ver repositorio](https://github.com/delos7angeles/ANÁLISIS-DE-VENTAS-DE-VIDEOJUEGOS)
+
 💡 Explora mis repositorios para ver más proyectos y notebooks.
