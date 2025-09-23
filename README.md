@@ -46,4 +46,14 @@ Incluye visualizaciones y recomendaciones estratégicas para mejorar el retorno 
 Exploración de ventas de videojuegos por plataforma, género y región.  
 Incluye visualizaciones y análisis de tendencias históricas.  
 
+📌 Análisis de Datos KYC / KYC Data Analysis
+
+Exploración y clasificación de clientes bajo normativas KYC (Know Your Customer). Incluye:
+	•	Limpieza y análisis de datos de clientes
+	•	Clasificación por nivel de riesgo (bajo, medio, alto)
+	•	Visualizaciones de distribución por país, documento y estado KYC
+	•	Recomendaciones de cumplimiento
+
+
+
 💡 Explora mis repositorios para ver más proyectos y notebooks.
